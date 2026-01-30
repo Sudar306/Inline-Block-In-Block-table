@@ -1,0 +1,10 @@
+.first{ 
+    /* padding: 50px; */
+     border: 1px solid blue;
+    display: inline;
+}
+.second {
+    /* padding: 50px; */
+    border: 1px solid green;
+    display: block;
+}
